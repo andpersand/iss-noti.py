@@ -3,7 +3,7 @@ Just a little bot who tells you when the Internaional Space Station will next pa
 
 ## What it does
 
-It uses the open-notify API to figure out when the ISS will next pass over the coordinates you give it.
+It uses the [open-notify API](http://open-notify.org/Open-Notify-API/ISS-Location-Now/) to figure out when the ISS will next pass over the coordinates you give it.
 
 ## How to use it
 
